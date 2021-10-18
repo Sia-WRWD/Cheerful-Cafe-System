@@ -1,0 +1,34 @@
+﻿			Cheerful Cafe		
+		May The Shibas Be With You!		
+CustomerID:		
+Wednesday, 29 April, 2020			3:00:36 PM
+----------------------------------------------------------------------------
+Shiba Inu Ice Cream				3
+Shiba Inu Chocolate Cake				0
+Shiba Inu Strawberry Cake				0
+Shiba Inu Dark Chocolate Cake			0
+Shiba Inu Fruit Cake				0
+Shiba Inu Red Velvet Cake				0
+Shiba Inu Coffee Cake				0
+Shiba Inu Black Forest Cake				0
+Shiba Inu Ice Cream Cake				0
+Shiba Inu Cappucino				2
+Shiba Inu Americano				0
+Shiba Inu Espresso					0
+Shiba Inu Latte					0
+Shiba Inu Ice Cream Rootbeer			0
+Shiba Inu Green Latte				0
+Shiba Inu Hot Chocolate				0
+Pepermint Tea					0
+Ice Lemon Tea					0
+---------------------------------------------------------------------
+Service Charge				3
+---------------------------------------------------------------------
+Tax Charged				0
+Sub Total					0
+Total Cost				0
+---------------------------------------------------------------------
+Amount Paid				0
+Change					0
+---------------------------------------------------------------------
+		Thank You For Your Patronage!		

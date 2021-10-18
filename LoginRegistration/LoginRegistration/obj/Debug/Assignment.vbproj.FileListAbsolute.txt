@@ -1,0 +1,17 @@
+C:\Users\DELL-NB006\source\repos\LoginRegistration\LoginRegistration\bin\Debug\LoginRegistration.exe.config
+C:\Users\DELL-NB006\source\repos\LoginRegistration\LoginRegistration\bin\Debug\LoginRegistration.exe
+C:\Users\DELL-NB006\source\repos\LoginRegistration\LoginRegistration\bin\Debug\LoginRegistration.pdb
+C:\Users\DELL-NB006\source\repos\LoginRegistration\LoginRegistration\bin\Debug\LoginRegistration.xml
+C:\Users\DELL-NB006\source\repos\LoginRegistration\LoginRegistration\obj\Debug\LoginRegistration.LoginForm.resources
+C:\Users\DELL-NB006\source\repos\LoginRegistration\LoginRegistration\obj\Debug\LoginRegistration.MainForm.resources
+C:\Users\DELL-NB006\source\repos\LoginRegistration\LoginRegistration\obj\Debug\LoginRegistration.Resources.resources
+C:\Users\DELL-NB006\source\repos\LoginRegistration\LoginRegistration\obj\Debug\Assignment.vbproj.GenerateResource.cache
+C:\Users\DELL-NB006\source\repos\LoginRegistration\LoginRegistration\obj\Debug\Assignment.vbproj.CoreCompileInputs.cache
+C:\Users\DELL-NB006\source\repos\LoginRegistration\LoginRegistration\obj\Debug\LoginRegistration.exe
+C:\Users\DELL-NB006\source\repos\LoginRegistration\LoginRegistration\obj\Debug\LoginRegistration.xml
+C:\Users\DELL-NB006\source\repos\LoginRegistration\LoginRegistration\obj\Debug\LoginRegistration.pdb
+C:\Users\DELL-NB006\source\repos\LoginRegistration\LoginRegistration\obj\Debug\Assignment.vbprojAssemblyReference.cache
+C:\Users\DELL-NB006\source\repos\LoginRegistration\LoginRegistration\obj\Debug\LoginRegistration.CustomerRegistrationForm.resources
+C:\Users\DELL-NB006\source\repos\LoginRegistration\LoginRegistration\obj\Debug\LoginRegistration.StaffRegistrationForm.resources
+C:\Users\DELL-NB006\source\repos\LoginRegistration\LoginRegistration\obj\Debug\LoginRegistration.MenuPaymentSystem.resources
+C:\Users\DELL-NB006\source\repos\LoginRegistration\LoginRegistration\obj\Debug\LoginRegistration.HistoryForm.resources
